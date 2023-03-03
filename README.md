@@ -10,11 +10,9 @@ mvn spring-boot:run
 
 
 1. POST Register Drone
-
     ```http://localhost:8090/api/drone```
 
 2. PUT Load Medication in Drone
-    
     ```http://localhost:8090/api/v1/drones/DRONE-1```
 
 3. GET Available Drones
