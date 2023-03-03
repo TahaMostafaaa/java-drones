@@ -1,7 +1,4 @@
 package com.drones.drones.task.entities;
-
-import com.fasterxml.jackson.annotation.JsonBackReference;
-
 import javax.persistence.*;
 
 @Entity
