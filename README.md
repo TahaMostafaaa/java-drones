@@ -5,7 +5,7 @@ Duration: 3 days
 
 Pull Dependencies and Run
 ```cmd
-mvn  install
+mvn install
 mvn spring-boot:run
 ```
 
