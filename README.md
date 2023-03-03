@@ -16,7 +16,7 @@ mvn spring-boot:run
     ```http://localhost:8090/api/v1/drones/DRONE-1```
 
 3. GET Available Drones
-    ```http://localhost:8090/api/v1/drones/available ```
+    ```http://localhost:8090/api/v1/drones/available-drones```
 
 4. GET Drone or Get Drone battery
     ```http://localhost:8090/api/v1/drones/DRONE-1```
