@@ -1,6 +1,8 @@
 # java-drones
 Java Drones using Spring boot
 
+Duration: 1 week
+
 Pull Dependencies and Run
 ```cmd
 mvn  install
